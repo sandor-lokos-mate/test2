@@ -8,7 +8,7 @@ Tehetek be [link](https://uni-mate.hu/)
 
 MATE oktatas test repo
 
-*alahuzas*
+*dolt betu*
 
 `int main()`
 
