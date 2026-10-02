@@ -13,8 +13,18 @@ MATE oktatas test repo
 `int main()`
 
 ```
+#include <iostream>
+
+using namespace std;
+
 int main()
 {
   cerr << "Hello world!" << endl;
 }
 ```
+
+### Harom
+#### Negy
+##### Ot
+###### Hat
+####### Het
